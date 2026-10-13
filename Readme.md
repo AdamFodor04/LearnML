@@ -24,6 +24,12 @@ The goal is to help generate realistic, hands-on assignments that use a real dat
 - `ML_DS_Practical_Documentation.md`  
   A documentation-style reference covering the Python libraries, common functions, and workflow concepts that are useful for solving practical ML/data-science tasks without prescribing an exact exam solution.
 
+- `INDRA_Documentation.md`  
+  A practical reference for INDRA, focused on statements, grounding, assembly, assemblers, and mechanistic modeling workflows in biomedical research.
+
+- `INDRA_ExamPrompt.md`  
+  A dataset-style exam prompt for building a realistic INDRA-based project around knowledge extraction, filtering, assembly, and interpretation.
+
 - `examples/ml_exam_example/`  
   A worked example folder containing a synthetic customer-churn dataset, a student version of the exam in Jupyter Notebook form, and a fully solved notebook.
 
